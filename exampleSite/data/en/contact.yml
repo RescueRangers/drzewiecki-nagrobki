@@ -3,7 +3,11 @@ contact:
   enable: true
   title: Kontakt
   subtitle: Adres firmy
-  content: Firma nagrobkowa - handel i usługi Sebastian Drzewiecki
+  content: |-
+    Firma nagrobkowa - handel i usługi Sebastian Drzewiecki
+
+    NIP: 597-164-57-36
+    Nr konta: 09 8355 0009 0074 4063 2000 0001
   contact_list:
   - icon: ti-location-pin
     info: Osiedle Piastów 9/2, 74-300 Myślibórz
