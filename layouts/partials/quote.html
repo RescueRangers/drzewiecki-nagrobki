@@ -22,8 +22,8 @@
                 <p> {{ .content | markdownify }}</p>
             </div>
             <div class="col-lg-6">
-                <blockquote class="groucho">{{ $quote | markdownify }}
-                    <footer>{{ $attribution }}</footer>
+                <blockquote class="groucho">{{ $.quote | markdownify }}
+                    <footer>{{ $.attribution }}</footer>
                 </blockquote>
             </div>
         </div>
