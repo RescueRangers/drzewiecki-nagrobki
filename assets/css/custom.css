@@ -1,0 +1,14 @@
+blockquote{
+    font-size: 2em; 
+    line-height:  1.5; 
+    text-align: center;
+    height: 100%;
+    padding-top: 20%;
+}
+
+blockquote footer{
+    font-size: 0.6em;
+    font-weight: 700;
+    float: right;
+    color: darkgray;
+}

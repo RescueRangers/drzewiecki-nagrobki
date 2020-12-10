@@ -22,8 +22,8 @@
                 <p> {{ .content | markdownify }}</p>
             </div>
             <div class="col-lg-6">
-                <blockquote style="font-size: 2.4em; line-height:  1.5; text-align: center;">{{ .quote | markdownify }}
-                    <footer style="font-size: 0.6em; font-weight: 700; float: right; color: darkgray;">{{ .attribution }}</footer>
+                <blockquote>{{ .quote | markdownify }}
+                    <footer>{{ .attribution }}</footer>
                 </blockquote>
             </div>
         </div>

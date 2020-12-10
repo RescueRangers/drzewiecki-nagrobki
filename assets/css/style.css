@@ -17,6 +17,7 @@ body {
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
+  font-size: 1.5em;
 }
 
 h1,
@@ -28,10 +29,6 @@ h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
   color: #afbac4;
-}
-
-p {
-  font-family: "Quattrocento Sans", sans-serif;
 }
 
 [scroll-behavior=smooth] {
