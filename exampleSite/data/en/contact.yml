@@ -9,10 +9,8 @@ contact:
     info: Osiedle Piastów 9/2, 74-300 Myślibórz
   - icon: ti-mobile
     info: 'Telefon: 507 542 346'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: drzewiecki.nagrobki@wp.pl'
   contact_form:
     enable: true
     form_action: "#"
