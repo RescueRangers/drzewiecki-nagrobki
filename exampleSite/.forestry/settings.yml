@@ -26,6 +26,11 @@ sections:
 - type: heading
   label: Data
 - type: directory
+  path: exampleSite/content/english/oferta
+  label: Oferta
+  create: all
+  match: "**/*"
+  - type: directory
   path: exampleSite/data
   label: Homepage
   create: all
