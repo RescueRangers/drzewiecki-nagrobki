@@ -1,9 +1,11 @@
 {{ define "main" }}
-
+{{ with site.Data.Oferta }}
 {{ partial "navigation.html" . }}
+
+{{ partial "quote.html" . }}
 
 {{ partial "portfolio.html" . }}
 
 {{ partial "contact.html" . }}
-
+{{ end }}
 {{ end }}
