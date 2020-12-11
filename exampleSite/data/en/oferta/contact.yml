@@ -1,0 +1,22 @@
+---
+contact:
+  enable: true
+  title: Kontakt
+  subtitle: Adres firmy
+  content: "Firma nagrobkowa - handel i usługi Sebastian Drzewiecki\n\nNIP: 597-164-57-36
+    \ \nNr konta: 09 8355 0009 0074 4063 2000 0001"
+  contact_list:
+  - icon: ti-location-pin
+    info: Osiedle Piastów 9/2, 74-300 Myślibórz
+  - icon: ti-mobile
+    info: 'Telefon: 507 542 346'
+  - icon: ti-email
+    info: 'Email: drzewiecki.nagrobki@wp.pl'
+  contact_form:
+    enable: true
+    form_action: "#"
+    name: Twoje imię
+    email: Twój adres email
+    subject: Temat
+    message: Wiadomość
+    submit: Submit
